@@ -1,2 +1,2 @@
 # Calculadora
-Projeto pessoal de calculadora
+Projeto pessoal de calculadora usando python e html
